@@ -4,7 +4,7 @@ This is the repo for Aldren Motor Services website.
 
 ![](./images/ScreenShot.png)
 
-### Tools Used:
+### Plugins Used:
 
 **Skel** - A lightweight framework for building responsive sites and web apps. [GitHub](http://skel.io/)
 
